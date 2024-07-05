@@ -26,7 +26,7 @@ Here are a few projects I've worked on:
    - **Description:** **QKart**, your go-to online marketplace, provides a seamless shopping experience. With a user-friendly interface and a diverse range of products, QKart ensures 
                                  secure transactions and responsive customer support. Explore our platform for convenient shopping, exclusive deals, and a commitment to yoursatisfaction. 
    - **Tech Stack:** HTML, CSS, JavaScript, Bootstrap, React, NodeJs, etc.
-   - **GitHub Repo:** https://github.com/RohitSingh1999/Q-Karty
+   - **GitHub Repo:** https://github.com/RohitSingh1999/Q-Kart
 
 3. **Q-Trip**
    - **Description:** QTrip is a travel website aimed at travelers looking for a multitude of adventures in different cities. 
