@@ -20,13 +20,13 @@ Here are a few projects I've worked on:
    - **Description:** This is a programming language tutorial. in this tutorial we can learn programming language like HTML , CSS, JavaScript, React js, Java, MySql, Python etc. this 
                       website is free of cost and they are help to increase knowledge of students.
    - **Tech Stack:** React, HTML, CSS, JavaScript, Tailwind CSS Node.js, MySQL, etc.
-   - **GitHub Repo:** [https://github.com/RohitSingh1999/E-Learning]
+   - **GitHub Repo:** https://github.com/RohitSingh1999/E-Learning
 
 2. **Q-Kart**
    - **Description:** **QKart**, your go-to online marketplace, provides a seamless shopping experience. With a user-friendly interface and a diverse range of products, QKart ensures 
                                  secure transactions and responsive customer support. Explore our platform for convenient shopping, exclusive deals, and a commitment to yoursatisfaction. 
    - **Tech Stack:** HTML, CSS, JavaScript, Bootstrap, React, NodeJs, etc.
-   - **GitHub Repo:** [https://github.com/RohitSingh1999/Q-Karty]
+   - **GitHub Repo:** https://github.com/RohitSingh1999/Q-Karty
 
 3. **Q-Trip**
    - **Description:** QTrip is a travel website aimed at travelers looking for a multitude of adventures in different cities. 
@@ -35,7 +35,7 @@ Here are a few projects I've worked on:
 
 
    - **Tech Stack:** HTML, CSS, JavaScript, Bootstrap,  etc.
-   - **GitHub Repo:** [https://github.com/RohitSingh1999/Q-Trip]
+   - **GitHub Repo:** https://github.com/RohitSingh1999/Q-Trip
 
 ## Skills
 
@@ -46,6 +46,6 @@ Here are a few projects I've worked on:
 ## Contact Me
 
 Feel free to reach out to me at:
-- **Email:** [rohitsingh2371999@gmail.com]
-- **LinkedIn:** [https://www.linkedin.com/in/rohit-singh-2b0104206/]
+- **Email:** rohitsingh2371999@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/rohit-singh-2b0104206/
 
