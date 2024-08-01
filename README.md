@@ -38,10 +38,21 @@ Here are a few projects I've worked on:
    - **Tech Stack:** HTML, CSS, JavaScript, Bootstrap,  etc.
    - **GitHub Repo:** https://github.com/RohitSingh1999/Q-Trip
 
+
+4. **Publistr**
+   - **Description:** Developed a social media platform tailored for Model, Influencers and Photographer to create and manage their profiles Designed and developed the UI with React.js, providing a seamless and visually appealing experience for users to upload and
+share images. 
+
+
+
+
+   - **Tech Stack:** HTML, CSS, JavaScript, Express, Node JS, MySql  etc.
+   - **Live:** https://publistr.vercel.app/
+
 ## Skills
 
 - **Frontend Development:** React.js, HTML, CSS, JavaScript, Tailwind CSS
-- **Backend Development:** Node.js (in progress)
+- **Backend Development:** Node.js
 - **Database Management:** MySQL
 
 ## Contact Me
