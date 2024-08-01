@@ -9,8 +9,9 @@ I'm a passionate web developer with expertise in:
 - **JavaScript**
 - **MySQL**
 - **Tailwind CSS**
+- **Express JS**
+- **Node JS**
 
-Currently, I'm advancing my skills in **Node.js** and constantly exploring new technologies in the web development space.
 
 ## Projects
 
